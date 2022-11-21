@@ -10,12 +10,12 @@ Hi, I'm Luke 👋
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h2> 👨🏻‍🎓 Qualifications 🚀&nbsp; </h2>
+<h2> 👨🏻‍🎓 Qualifications </h2>
 <p> Engineering (Beng, Hons) Electronics 2:1 </p>
 <p> Media Production (BA, Hons) Grade: 2:1 </p>
 
 
-  <h2>&nbsp;👨🏼‍💻 Some technologies that I use 🚀&nbsp; </h2>
+  <h2>&nbsp;👨🏼‍💻 Some technologies that I use </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="bash" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="bash" width="60" height="60"/>
