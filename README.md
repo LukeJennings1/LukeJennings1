@@ -1,18 +1,26 @@
 Hi, I'm Luke 👋
 
-          
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+<h2>🔎 Past Projects</h2>
+
+👨🏻‍🎨 My Portfolio Site - Fullstack (React, Node.JS, CSS3, HTML5)
+Portfolio site made to demonstrate me, my code and my love of making things!
+Link: TBA
+Repo: 
+
+🔍 Wheres Wally? Game - Fullstack (React, CSS3, HTML5, Firebase)
+Find each character and submit the high score! 
+Link: 
+Repo:
+
+💳 E-commerce Site - Front-End (React, SASS, HTML5)
+Demo made to secure a freelance client
+Link: 
+Repo: 
 
 <h2> 👨🏻‍🎓 Qualifications </h2>
-<p> Engineering (Beng, Hons) Electronics 2:1 </p>
-<p> Media Production (BA, Hons) Grade: 2:1 </p>
+<p> Engineering Beng (Hons) Electronics 2:1 </p>
+<p> Media Production BA (Hons) Grade: 2:1 </p>
 
 
   <h2>&nbsp;👨🏼‍💻 Technologies </h2>
