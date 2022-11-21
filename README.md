@@ -15,7 +15,7 @@ Hi, I'm Luke 👋
 <p> Media Production (BA, Hons) Grade: 2:1 </p>
 
 
-  <h2>&nbsp;👨🏼‍💻 Some technologies that I use </h2>
+  <h2>&nbsp;👨🏼‍💻 Technologies </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="bash" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="bash" width="60" height="60"/>
