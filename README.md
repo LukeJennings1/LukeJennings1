@@ -1,4 +1,4 @@
-Hi, I'm Luke 👋
+<h1 font-size = "20px"> Hi, I'm Luke 👋 </h1>
 
 
 <h2>🔎 Past Projects</h2>
