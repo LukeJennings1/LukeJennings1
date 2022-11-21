@@ -1,6 +1,5 @@
 <h1 font-size = "20px"> Hi, I'm Luke 👋 </h1>
 
-
 <h2>🔎 Past Projects</h2>
 
 👨🏻‍🎨 My Portfolio Site - Fullstack (React, Node.JS, CSS3, HTML5)
