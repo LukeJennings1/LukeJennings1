@@ -6,17 +6,17 @@ Hi, I'm Luke 👋
 👨🏻‍🎨 My Portfolio Site - Fullstack (React, Node.JS, CSS3, HTML5)
 Portfolio site made to demonstrate me, my code and my love of making things!
 Link: TBA
-Repo: 
+Repo: https://github.com/LukeJennings1/Personal-Portfolio
 
 🔍 Wheres Wally? Game - Fullstack (React, CSS3, HTML5, Firebase)
 Find each character and submit the high score! 
-Link: 
-Repo:
+Link: https://github.com/LukeJennings1/Wheres-Wally-Game
+Repo: https://lukejennings1.github.io/Wheres-Wally-Game/ 
 
 💳 E-commerce Site - Front-End (React, SASS, HTML5)
 Demo made to secure a freelance client
-Link: 
-Repo: 
+Link: https://github.com/LukeJennings1/Shopping-Cart
+Repo: https://lukejennings1.github.io/Shopping-Cart/
 
 <h2> 👨🏻‍🎓 Qualifications </h2>
 <p> Engineering Beng (Hons) Electronics 2:1 </p>
