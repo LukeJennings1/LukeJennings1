@@ -6,7 +6,7 @@
 Fullstack software Dev from London, UK.
 Email: LukeJennings123@gmail.com 
 
-<h2>🔎 Past Projects</h2>
+<h2>🔎 Recent Projects</h2>
 
 👨🏻‍🎨 My Portfolio Site - Fullstack (React, Node.JS, CSS3, HTML5)
 Portfolio site made to demonstrate me, my code and my love of making things!
