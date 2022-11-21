@@ -4,6 +4,7 @@
 ― Hank Green
 
 Fullstack software Dev from London, UK.
+Email: LukeJennings123@gmail.com 
 
 <h2>🔎 Past Projects</h2>
 
