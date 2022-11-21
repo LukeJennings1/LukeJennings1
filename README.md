@@ -11,8 +11,8 @@ Hi, I'm Luke 👋
 - ⚡ Fun fact: ...
 
 <h2> 👨🏻‍🎓 Qualifications: </h2>
-<span> Engineering (Beng, Hons) Electronics 2:1 </span>
-<span> Media Production (BA, Hons) Grade: 2:1 </span>
+<p> Engineering (Beng, Hons) Electronics 2:1 </p>
+<p> Media Production (BA, Hons) Grade: 2:1 </p>
 
 
   <h2>&nbsp;👨🏼‍💻 Some technologies that I use 🚀&nbsp; </h2>
