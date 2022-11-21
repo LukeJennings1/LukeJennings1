@@ -10,7 +10,7 @@ Hi, I'm Luke 👋
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h2> 👨🏻‍🎓 Qualifications: </h2>
+<h2> 👨🏻‍🎓 Qualifications 🚀&nbsp; </h2>
 <p> Engineering (Beng, Hons) Electronics 2:1 </p>
 <p> Media Production (BA, Hons) Grade: 2:1 </p>
 
