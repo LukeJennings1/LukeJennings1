@@ -10,7 +10,7 @@ Email: LukeJennings123@gmail.com
 
 👨🏻‍🎨 My Portfolio Site - Fullstack (React, Node.JS, CSS3, HTML5)
 Portfolio site made to demonstrate me, my code and my love of making things!
-<p> Link: TBA </p> 
+<p> Link: https://lukejenningsportfolio.com </p> 
 <p> Repo: https://github.com/LukeJennings1/Personal-Portfolio </p>
 
 🔍 Wheres Wally? Game - Fullstack (React, CSS3, HTML5, Firebase)
