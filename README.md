@@ -1,6 +1,6 @@
 <h1 font-size = "20px"> Hi, I'm Luke 👋 </h1>
 
-“The satisfaction? The joy? That comes from solving problems and making things.”
+“The satisfaction? The joy? That comes from solving problems and making things”
 ― Hank Green
 
 Fullstack software Dev from London, UK.
