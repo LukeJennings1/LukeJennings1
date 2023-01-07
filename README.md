@@ -13,10 +13,12 @@ Portfolio site made to demonstrate me, my code and my love of making things!
 <p> Link: https://lukejenningsportfolio.com </p> 
 <p> Repo: https://github.com/LukeJennings1/Personal-Portfolio </p>
 
-🔍 Wheres Wally? Game - Fullstack (React, CSS3, HTML5, Firebase)
-Find each character and submit the high score! 
+🔍 My Coding Blog - Fullstack (React, CSS3, HTML5, Node.JS, Express & MongoDB
+JamStack Coding blog that uses a node.js / Mongo DB backend to forward blog posts. Site also has
+the ability to make comments on articles with an admin site that can perform crud actions on each post & comment. 
 <p> Link: https://lukejennings1.github.io/Wheres-Wally-Game/ </p>
 <p> Repo: https://github.com/LukeJennings1/Wheres-Wally-Game </p>
+<p> Backend Server Repo: https://github.com/LukeJennings1/Wheres-Wally-Game](https://github.com/LukeJennings1/Blog-Backend-Server </p>
 
 💳 E-commerce Site - Front-End (React, SASS, HTML5)
 Demo made to secure a freelance client
