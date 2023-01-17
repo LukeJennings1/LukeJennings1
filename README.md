@@ -21,7 +21,7 @@ the ability to make comments on articles with an admin site that can perform cru
 <p> Backend Server Repo: https://github.com/LukeJennings1/Blog-Backend-Server </p>
 
 💳 E-commerce Site - Front-End (React, SASS, HTML5)
-Demo made to secure a freelance client
+Demo made to secure a freelance client;
 <p> Link: https://lukejennings1.github.io/Shopping-Cart/ </p>
 <p> Repo: https://github.com/LukeJennings1/Shopping-Cart </p>
 
