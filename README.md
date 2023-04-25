@@ -26,7 +26,7 @@ Demo made to secure a freelance client;
 <p> Repo: https://github.com/LukeJennings1/Shopping-Cart </p>
 
 <h2> 👨🏻‍🎓 Qualifications </h2>
-<p> Engineering Beng (Hons) Electronics Grade: 2:1 </p>
+<p> Engineering - Electronics Beng (Hons) Grade: 2:1 </p>
 <p> Media Production BA (Hons) Grade: 2:1 </p>
 
 
