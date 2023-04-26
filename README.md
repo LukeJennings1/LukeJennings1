@@ -3,7 +3,7 @@
 “The satisfaction? The joy? That comes from solving problems and making things”
 ― Hank Green
 
-Fullstack software Dev from London, UK.
+Fullstack software Dev @ Book A Builder UK from London, UK.
 Email: LukeJennings123@gmail.com 
 
 <h2>🔎 Recent Projects</h2>
